@@ -1,0 +1,2 @@
+Crear components automaticamente 
+ng generate component empleado
